@@ -3,6 +3,9 @@ This is a cool project that gives you freedom to chat with any pdf you want. Eve
 
 
 Steps to run:
+Get your google gemini api key and paste in .env folder
+
+Then,
 Run "pip install requirements.txt"
 create a virtual environment (conda recomended)
 activate the environment
